@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES6",
+    "allowSyntheticDefaultImports": true,
+    "outDir": "output"
+  },
+  "include": ["./src"]
+}
